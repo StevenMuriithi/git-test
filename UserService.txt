@@ -1,2 +1,4 @@
 Get the User data, Mr Watson...
 Process the data 
+
+Create user avatar
